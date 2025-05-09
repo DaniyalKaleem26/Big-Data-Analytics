@@ -6,7 +6,7 @@ Analyzed a large accident database with over 1.3 million records to identify pat
 - `reports/`: Final report with problem statement, methodology, and results
 
 ## 📄 Final Report
-See the full report [here](reports/Predictive_Analytics_for_Road_Accidents_A_Big_Data_Approach).
+See the full report [here](reports/Predictive Analytics for Road Accidents-A Big Data Approach.pdf).
 
 ## 🧠 Model Used
 Apriori Algorithm, Kmeans, ACF and PACF Plots, ARIMA forecasting, social network analysis, community detection algorithms
