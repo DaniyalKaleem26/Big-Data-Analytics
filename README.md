@@ -6,10 +6,10 @@ Analyzed a large accident database with over 1.3 million records to identify pat
 - `reports/`: Final report with problem statement, methodology, and results
 
 ## 📄 Final Report
-See the full report [here](reports/final_report.pdf).
+See the full report [here](reports/Predictive_Analytics_for_Road_Accidents_A_Big_Data_Approach).
 
 ## 🧠 Model Used
 Apriori Algorithm, Kmeans, ACF and PACF Plots, ARIMA forecasting, social network analysis, community detection algorithms
 
 ## 🔍 Dataset
-The dataset used is the UCI Breast Cancer Wisconsin dataset.
+The dataset used is the Accident Database that can be found here [here](https://drive.google.com/file/d/1itlhKJyJnnfJYP-c6t5TwJPwL3ADqJ-f/view?usp=sharing).
